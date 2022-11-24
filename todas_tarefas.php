@@ -1,5 +1,6 @@
 <?php
 
+	$acao = 'recuperar';
 	require 'tarefa_controller.php';
 	
 ?>
