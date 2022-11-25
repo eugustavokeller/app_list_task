@@ -66,8 +66,7 @@
 
 				//incluir form na pagina
 				tarefa.insertBefore(form, tarefa[0])
-				
-			}
+			}	
 		</script>
 	</head>
 
